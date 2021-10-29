@@ -1,0 +1,59 @@
+.fullPage{
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+height:100%;
+width:100%;
+background-color:#ffffff;
+border-spacing:0;
+}
+
+
+.header{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height:20%;
+  background-color:#000000;
+}
+
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height:0;
+  background-color:#000000;
+}
+
+
+.leftMargin{
+  position: static;
+  left:0;
+  background-color: #1E5128;
+  width:15%;
+}
+
+.rightMargin{
+  position: static;
+  right:0;
+  background-color: #1E5128;
+  width:15%;
+}
+
+.textAlign{
+  text-align:center;
+}
+
+.listNone{
+  list-style:none;
+}
+
+.bigFont{
+  font-size: 24px;
+  text-align:center;
+}

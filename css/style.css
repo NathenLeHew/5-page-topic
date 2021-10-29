@@ -1,0 +1,63 @@
+.fullPage{
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+height:100%;
+width:100%;
+background-color:#ffffff;
+border-spacing:0
+}
+
+
+.header{
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  height:15%;
+  background-color:#191A19;
+}
+
+
+.middleBar{
+  position: static;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height:15%;
+  background-color:#4E9F3D;
+}
+
+.Footer{
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height:10%;
+  background-color:#191A19
+}
+
+
+.leftMargin{
+  position: static;
+  left:0;
+  background-color: #1E5128;
+  width:10%;
+}
+.rightMargin{
+  position: static;
+  right:0;
+  background-color: #1E5128;
+  width:10%;
+}
+
+.textAlign{
+  text-align:center;
+}
+
+.bigFont{
+  font-size: 24px;
+  text-align:center;
+}
